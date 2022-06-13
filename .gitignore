@@ -1,0 +1,13 @@
+# ignore node dependency directories
+node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+*.db
+*___svn/
+*svn/
+__*
+#disalow all _pro files and directories
+*_pro*
